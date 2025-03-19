@@ -1,7 +1,9 @@
 # GrowthLink
 
 I have attached the ipynb in the same repo
-steps:
+
+
+Steps:
 1. Read the dataset using the pandas library adn the read the few lines of the data to know above the dataset.
 2. Checked if there where any missing values present in it.
 3. Checks the particular column which has the missing values in it,took required steps to fill up them or drop them.
